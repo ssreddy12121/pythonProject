@@ -14,6 +14,4 @@ s.ready="yes iam ready for marriage"
 print(sama.girl)
 print(s.ready)
 print(s.name,s.age)
-del s.ready
-del s.marriage
 print(s.__dict__)
